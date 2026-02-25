@@ -2,16 +2,7 @@ El programa es un sistema de ventas que permite registrar clientes y categorías
 
 Descripcion del programa:
 
-Había que hacer un sistema de ventas, el cual debía tener categorías, clientes, ventas, detalle de ventas y factura.
-
-Este sistema debía permitir ingresar los clientes con todos sus datos, y cada registro debía tener los botones de guardar, actualizar y eliminar para poder administrar la información correctamente.
-
-En el módulo de categoría, el usuario podía agregar una nueva categoría y colocar la descripción de la misma.
-
-En facturación, se podían ver los reportes seleccionando cualquier cliente para visualizar sus compras.
-
-En venta y detalle de venta, los clientes podían realizar una compra y, al agregarla, el sistema generaba automáticamente un reporte o factura con la información de la venta.
-
+Hacer un sistema de ventas, el cual debe tener categorías, clientes, productos, ventas, detalle de ventas y factura. Este sistema debía permitir ingresar los clientes con todos sus datos, así como también los productos, y cada registro debía tener los botones de guardar, actualizar y eliminar para administrar la información correctamente. En el módulo de categoría, el usuario podía agregar una nueva categoría y colocar su descripción. En facturación, se podían ver los reportes seleccionando cualquier cliente para visualizar sus compras. En venta y detalle de venta, los clientes podían realizar una compra y, al agregarla, el sistema generaba automáticamente un reporte o factura con la información de la venta.
 
 <img width="993" height="615" alt="image" src="https://github.com/user-attachments/assets/42477d3f-5cd3-45ee-86a1-b9f5d6a60407" />
 
@@ -35,12 +26,10 @@ En venta y detalle de venta, los clientes podían realizar una compra y, al agre
 
 
 
+Explicacion de como usar el programa: 
+Para usar el programa, primero se registran los clientes con sus datos (usando las opciones de guardar, actualizar o eliminar). Luego se crean las categorías y después se registran los productos, asignándoles su categoría correspondiente.
 
-
-
-
-
-
+Finalmente, se realiza una venta, seleccionando el cliente y agregando los productos con sus cantidades y precios. Al guardar la venta, el sistema genera automáticamente la factura o reporte, que puede consultarse en el módulo de facturación.
 
 
 
