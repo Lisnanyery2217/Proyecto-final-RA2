@@ -29,6 +29,8 @@ En venta y detalle de venta, los clientes podían realizar una compra y, al agre
 
 <img width="779" height="436" alt="image" src="https://github.com/user-attachments/assets/429f9bab-f4ec-4656-b4de-abc1277cb5e1" />
 
+<img width="774" height="420" alt="image" src="https://github.com/user-attachments/assets/23f69745-6c90-4ca9-b934-96bf3f9f550e" />
+
 <img width="769" height="500" alt="image" src="https://github.com/user-attachments/assets/4eda5c12-213b-4864-80f5-d72c82faff1d" />
 
 
