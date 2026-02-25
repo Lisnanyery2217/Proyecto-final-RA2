@@ -1,0 +1,420 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\sistema ventas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\formv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formv.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\formp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\forminformventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\forminformventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\forminformproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\forminformproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formfacturacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|d:\\sistema ventas\\capapresentacion\\finicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0FD787C6-9A47-4F12-9B1B-D5AF8A7D20C4}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\finicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|d:\\sistema ventas\\capanegocio\\ventabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\ventabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|d:\\sistema ventas\\capanegocio\\productobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\productobl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|d:\\sistema ventas\\capanegocio\\detalleventabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\detalleventabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|d:\\sistema ventas\\capanegocio\\clientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\clientebl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|d:\\sistema ventas\\capanegocio\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DF85CEB-DCA0-491A-A1C5-F04435C981AF}|CapaNegocio\\CapaNegocio.csproj|solutionrelative:capanegocio\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|d:\\sistema ventas\\capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|d:\\sistema ventas\\capaentidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\productos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|d:\\sistema ventas\\capaentidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|d:\\sistema ventas\\capaentidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|d:\\sistema ventas\\capaentidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{276FA3FF-3793-4DB6-AFA6-57B6AD42FA23}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\detalleventadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|d:\\sistema ventas\\capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{735EDC92-000C-46C1-87EA-E0CA975C7D04}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormV.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormV.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormV.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormV.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormV.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:22:08.29Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormP.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormP.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormP.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormP.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormP.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:22:05.462Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormInformVenta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormInformVenta.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormInformVenta.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormInformVenta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormInformVenta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:22:02.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormInformProduct.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormInformProduct.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormInformProduct.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormInformProduct.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormInformProduct.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:22:01.034Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\Conexion.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\Conexion.cs",
+              "RelativeToolTip": "CapaDatos\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:03.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormFacturacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormFacturacion.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormFacturacion.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormFacturacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormFacturacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:21:57.939Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormC.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FormC.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormC.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FormC.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FormC.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:21:53.67Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\Form1.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Form1.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:21:51.226Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FInicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaPresentacion\\FInicio.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FInicio.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaPresentacion\\FInicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\FInicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:21:48.557Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VentaBL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaNegocio\\VentaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\VentaBL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaNegocio\\VentaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\VentaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:29.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoBL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaNegocio\\ProductoBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\ProductoBL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaNegocio\\ProductoBL.cs",
+              "RelativeToolTip": "CapaNegocio\\ProductoBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:28.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DetalleVentaBL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaNegocio\\DetalleVentaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\DetalleVentaBL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaNegocio\\DetalleVentaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\DetalleVentaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:27.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ClienteBL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaNegocio\\ClienteBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\ClienteBL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaNegocio\\ClienteBL.cs",
+              "RelativeToolTip": "CapaNegocio\\ClienteBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:26.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriaBL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaNegocio\\CategoriaBL.cs",
+              "RelativeDocumentMoniker": "CapaNegocio\\CategoriaBL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaNegocio\\CategoriaBL.cs",
+              "RelativeToolTip": "CapaNegocio\\CategoriaBL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:24.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaEntidades\\Venta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Venta.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaEntidades\\Venta.cs",
+              "RelativeToolTip": "CapaEntidades\\Venta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:18.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Productos.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaEntidades\\Productos.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Productos.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaEntidades\\Productos.cs",
+              "RelativeToolTip": "CapaEntidades\\Productos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:17.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DetalleVenta.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaEntidades\\DetalleVenta.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\DetalleVenta.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaEntidades\\DetalleVenta.cs",
+              "RelativeToolTip": "CapaEntidades\\DetalleVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:16.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaEntidades\\Cliente.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Cliente.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaEntidades\\Cliente.cs",
+              "RelativeToolTip": "CapaEntidades\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:14.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaEntidades\\Categoria.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Categoria.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaEntidades\\Categoria.cs",
+              "RelativeToolTip": "CapaEntidades\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VentaDAL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\VentaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentaDAL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\VentaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\VentaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:08.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProductoDAL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\ProductoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:06.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetalleVentaDAL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\DetalleVentaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\DetalleVentaDAL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\DetalleVentaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\DetalleVentaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ClienteDAL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\ClienteDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ClienteDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:20:01.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "D:\\sistema ventas\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CategoriaDAL.cs",
+              "ToolTip": "D:\\sistema ventas\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CategoriaDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T19:19:46.865Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
